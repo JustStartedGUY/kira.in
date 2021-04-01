@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Kira in Japan
+In year 2009, A police officer was reported as kira, who killed people using a book named '**Death Note**'.
+Criminals have strated dying again and we have suspected Second Kira. If you know anything then do please contact as at **endermanmcser@gmail.com**
 
-You can use the [editor on GitHub](https://github.com/JustStartedGUY/kira.in/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Details.
+He lives in Japan, and we found he Okinara region. As we have investigated, we found nothing, we suspect him in other parts of the world.
+So be safe, and if you feel unprotected in Japan, then do please report us at support@kiracrime.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Become Part of this investigation
+If you want to become the part of this investigation, then email us at 'endermanmcser@gmail.com' with your Name, and details of your graduation, so we can look after 
+to your email.
 
-### Markdown
+## Tourist
+If you're a tourist then contact at 'support@kiracrime.com'. It will help you if you're a alone traveller
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JustStartedGUY/kira.in/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                                                                    Kira Investigation
+                                                                  Looking forward to Help
